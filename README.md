@@ -52,7 +52,6 @@ Este exemplo é um ponto de partida básico. Dependendo das suas necessidades, v
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- XAMPP
 - PHP
 - MySQL
 - Java-Script
