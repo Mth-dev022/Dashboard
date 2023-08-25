@@ -1,8 +1,9 @@
 # Dashboard
 
-<img src="imagens/menu.png">
-
-<img src="imagens/input.png">
+<div style="display: flex; justify-content: space-between;">
+  <img src="imagens/menu.ppg" width="300" height="200" />
+  <img src="imagens/input.png" width="300" height="200" />
+</div>
 
 #  📝 Descrição do projeto
 
