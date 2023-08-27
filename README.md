@@ -1,9 +1,9 @@
 # Dashboard
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="imagens/menu.png" width="300" height="200" />
-  <img src="imagens/input.png" width="300" height="200" />
-</div>
+<p align"center">
+  <img src="imagens/menu.png" width="450" height="200" />
+  <img src="imagens/input.png" width="450" height="200" />
+</p>
 
 #  📝 Descrição do projeto
 
