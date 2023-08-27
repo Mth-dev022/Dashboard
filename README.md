@@ -1,7 +1,7 @@
 # Dashboard
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="imagens/menu.ppg" width="300" height="200" />
+  <img src="imagens/menu.png" width="300" height="200" />
   <img src="imagens/input.png" width="300" height="200" />
 </div>
 
