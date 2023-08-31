@@ -60,7 +60,7 @@ Este exemplo é um ponto de partida básico. Dependendo das suas necessidades, v
   
 # Tarefas em aberto
 
-:memo: Estruturar o banco de dados, e montar as queries para recuperar as informações de clientes ativos, clientes inativos, total de reclamações, total de elogios, total de despesas.
+:memo: Estruturar o banco de dados, e montar as queries para recuperar as informações de clientes ativos, clientes inativos, total de reclamações, total de elogios, total de despesas
 
 
 
