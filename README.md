@@ -9,8 +9,10 @@
 
 <p>
   Painel de controle para acesso ao número de vendas, e o total de vendas de um determinado período de tempo.
-  Os campos input contém o mês e o ano para auxiliar na recuperação dos dados do banco de dados . Quando esses campos forem selecionados, através da biblioteca "JQUERY" é feita uma requisição assíncrona através da  
-  metodologia "AJAX" para o servidor. E através do PHP é feita a conexão com o banco de dados, que fornece as informações necessárias para popular os campos do input.
+  Os campos input contém o mês e o ano para auxiliar na recuperação dos dados do banco de dados . Quando esses campos forem       
+  selecionados, através da biblioteca "JQUERY" é feita uma requisição assíncrona através da  
+  metodologia "AJAX" para o servidor. E através do PHP é feita a conexão com o banco de dados, que fornece as informações 
+  necessárias para popular os campos do input.
 </p>
 
 ## Iniciando/Configurando banco de dados
